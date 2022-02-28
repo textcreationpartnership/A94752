@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An inspective for spirituall ingrossures; being presented to a Presbyterian pluralist, and formalist. / By Thomas Tookey M.A. substituted pastor at Thornhaw in Northamptonshire.</title>
+            <author>Tookey, Thomas, d. 1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94752</idno>
+            <idno type="STC">Wing T1902</idno>
+            <idno type="STC">Thomason E353_10</idno>
+            <idno type="STC">ESTC R201079</idno>
+            <idno type="EEBO-CITATION">99861646</idno>
+            <idno type="PROQUEST">99861646</idno>
+            <idno type="VID">113786</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113786)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E353[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An inspective for spirituall ingrossures; being presented to a Presbyterian pluralist, and formalist. / By Thomas Tookey M.A. substituted pastor at Thornhaw in Northamptonshire.</title>
+                  <author>Tookey, Thomas, d. 1656.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black Spread-Eagle at the west end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A Presbyterian pluralist, and formalist = John Yaxley.</note>
+                  <note>Annotation on Thomason copy: "Sept: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Yakesley, John --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113786:1" rendition="simple:additions"/>
+            <p>An Inſpective FOR Spirituall Ingroſſures; BEING Preſented to a Presbyterian PLURALIST, and FORMALIST.</p>
+            <p>By THOMAS TOOKEY <hi>M. A.</hi> Subſtituted Paſtor at <hi>Thornhaw</hi> in <hi>Northamptonſhire.</hi>
+            </p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>ISAI 5.20.</hi>
+                  </bibl> Woe be to them that joyn Houſe to Houſe, and lay Field to Field, till there be no place; that they may be placed alone in the midſt of the earth!</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>ROM. 2.22.</hi>
+                  </bibl> Thou that abhorreſt Idols, doſt thou commit Sa<g ref="char:EOLhyphen"/>criledge?</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>2 TIM. 6.9.</hi>
+                  </bibl> They that will be rich fall into temptation and a ſnare, and fooliſh and hurtfull luſts which drown men in deſtru<g ref="char:EOLhyphen"/>ction and perdition.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>10</label> For the love of mony is the root of all evill, which while ſome coveted after, they have erred from the faith, and pierced them<g ref="char:EOLhyphen"/>ſelves through with many ſorrowes.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">verse </seg>11</label> But thou O man of God flee thoſe things, and follow after Righteouſneſſe, Godlineſſe, Faith, Love, Patience, and Meeknes.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the Black <hi>Spread-Eagle</hi> at the Weſt end of PAULS. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prefatory_letter">
+            <pb facs="tcp:113786:2"/>
+            <pb n="1" facs="tcp:113786:2"/>
+            <head>The Preſentation; To Mr JOHN YAXLEY Miniſter to the Church in <hi>Cunnington</hi> in <hi>Cambridg-ſhire,</hi> Parſon of <hi>Thornhaugh,</hi> Vicar of <hi>Wainsford,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is richly known unto your ſelfe (and I could have deſired no other might have known) how that you have covenanted with me to reſign up the reſerve upon the ſight of farther reaſon. I had thought you could not but have ſeen how favourably you was lookt upon, when diſpoſed to a ſtately Parſonage, double the value of that you left. You might have ſeen how nobly the Earle of <hi>Mancheſter</hi> encouraged your firſt admiſſion with the Eſtimate of fifty pounds out of the ſequeſtration, upon ſuppoſure of your diſpoyled condition, when as in truth you robd the people of the ſummer riches, and ſought for me to tend your fleeced ſheep, during the ſtormy winter. And when you ſought after me (not I you) though you could not ſee into my ſucceſſefull labours in the miniſtry to Sir <hi>John Gell</hi> in Derby-ſhire, nor my ſufferings by ſevere impriſonment in <hi>Titbu<g ref="char:EOLhyphen"/>ry</hi> Caſtle, and my other loſſes both before and ſince I did withdraw from thence; Yet you might have lookt behind you, and have ſeen the houſe you left ſo often battered, robbed, diſpoyled: Yea, you might have waſht the cruell Cataracts from off your eyes, with ſtreams of blood diſtilling from my wounds. Yet notwithſtanding infinite of ſuch repreſentives to induce a ſight of better reaſon; nothing will pleaſe you (till this very day) but a ſight of forty pounds <hi>per annum,</hi> Tax-free; And ſuch violent and frandulent courſes taken by you too enjoy the ſame, as the Sun in its Meridian Altitude of rigid Epiſcopacy, never ſaw the like. Neither yet may I injure you ſo farre as to make the world beleive you look upon
+<pb n="2" facs="tcp:113786:3"/>Pluralities as leſſe then ſinfull in themſelves, ſtrictly conſidered: No, you have held forth that light to others with much vehemency. Nor that in exacting the worldly ſweet of two diſtinct congregations, (to one of which you had not for above two yeares together appeared in the per<g ref="char:EOLhyphen"/>formance of the leaſt ministeriall duties) you have ſinned againſt your owne light. No, I would willingly judge more indifferently of your ſelfe, and ſome others involved in the like condition. That having crept ſo near <hi>Cambridge,</hi> you have peept into ſo much Logicke, got ſo much So<g ref="char:EOLhyphen"/>phiſtry, as in ſome diſtinct, and divers conſiderations, and various ac<g ref="char:EOLhyphen"/>ceptations, <hi>Temporaliter, Localiter, Conditionaliter, Reſpectivè, ſe<g ref="char:EOLhyphen"/>cundum gradum compoſſibilitatis, &amp; non ſecundum gradum incom<g ref="char:EOLhyphen"/>poſſibilitatis,</hi> not when you could not, but now you can, account both non-reſidency, and ſacred Theevery, dearly l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wfull, gainfull, hopefull, need<g ref="char:EOLhyphen"/>full. <hi>Sir,</hi> This Inſpective inſtrument was therefore compoſed (on pur<g ref="char:EOLhyphen"/>poſe) to help you ſee better into thoſe unfound myſterious chinks, and un<g ref="char:EOLhyphen"/>ſound curious crannies, through which ſome late metamorphiſed Mini<g ref="char:EOLhyphen"/>ſters got ſafely into new, and kept cloſely to the profits of their old li<g ref="char:EOLhyphen"/>vinge. It is for your turne, I would not for forty pounds a yeare but you ſhould make good uſe of it.</p>
+            <p>It wil help your concave Luminaries to diſcern better through the motes you eſpied in Biſhops eyes, which are grown to beames in you own. To con<g ref="char:EOLhyphen"/>clude, if this paper hold forth further reaſon, you muſt ſee it though from</p>
+            <closer>
+               <signed>Your poor, SIR, — yet, Fellow-labourer; THOMAS TOOKEY.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:113786:3"/>
+            <head>The <hi>Inſpective</hi> ſerving to better <hi>Diſcovering</hi> of Spirituall INGROSSURES.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat any Miniſter of the Goſpell ſhould at one time gripe in to both his hands the wordly ſweet of two or more Diſtinct Congregations, his miniſtry being exerciſed but upon one of them; is ſo farre from the Judgement and Practice of Proteſtant well-refor<g ref="char:EOLhyphen"/>med Churches, that we cannot eaſily finde thoſe ſo much corrupted Prelates retaining to Rome to al<g ref="char:EOLhyphen"/>low it as abſolutely lawfull in themſelves: But that chiefly for Di<g ref="char:EOLhyphen"/>vers pretended Cauſes and Confiderations, they ſuſpenſe with it, as with many other Sinnes under Dawbing Notions, and Qualifications, ſubtile miſteries of theſe Iniquities.</p>
+            <p>It is therefore ſtrictly to be conſidered, whether thoſe circumſtan<g ref="char:EOLhyphen"/>tiall Reſpects, both Old and New faſhioned Spirituall Ingroſſures thereon Depending, may not be both alike unfound.</p>
+            <p>We ſhall find no End of thoſe many Accidents which are drawne in to encourage Pluralities. Yet, moſt (if not all) of them will fall in, as appertaining either firſt to the Parties between whom, ſecondly the Places whereat, or thirdly the Times wherein thoſe Ingroſſures are Acted. And in this Order may the Inſpection be Diſpoſed.</p>
+            <div type="part">
+               <head>Inſpection to the ſubjective Reſpects.</head>
+               <p>REſpects appertain to the Parties, as Super-intendents, or Subſti<g ref="char:EOLhyphen"/>ſtutes. For the firſt, the Prelate; Arguments are drawne either from his Excellencies, or his Deficiencies.</p>
+               <p>If Reſpect being had to the Miniſter's Excellencies, or Deſerv<g ref="char:EOLhyphen"/>ings, would juſtifie his Ingroſſings; Then from the chiefeſt of all at<g ref="char:EOLhyphen"/>tainable: (<hi>viz:</hi> the great and large Indowments of Gods Spirit ina<g ref="char:EOLhyphen"/>bling him to the work of the miniſtry, (between which and the Dig<g ref="char:EOLhyphen"/>nities of humane Sciences, or the Honours and Qualifications of Earthly Potentates, there is no more Competition then between <hi>Michahs</hi> Annuall Pittance to his mercenary Idoll Prieſt, and the double Portion of the Spirit derived from <hi>Eliah</hi> upon <hi>Eliſhah</hi>) yet
+<pb n="4" facs="tcp:113786:4"/>this more gracious Qualification, extended even to a <hi>Paul's</hi> Propor<g ref="char:EOLhyphen"/>tion, leaves the Miniſter inſufficient for a full Diſcharge of Duties to the meaneſt Church in the chriſtian world. 2 <hi>Cor.</hi> 2.16.</p>
+               <p>Much leſſe ſhall he be in a capacity of any other Conſiderates, to ſupererrogate for himſelfe, or derrogate from the fruits of others la<g ref="char:EOLhyphen"/>bours.</p>
+               <p>Secondly, Reſpects being rightly had to the Miniſters deficiencies, may properly diminiſh, not multiply Beneficencies: yet a Miniſter ha<g ref="char:EOLhyphen"/>ving ſowne much ſpirituall ſeed upon a People and growes deficient (through Age. or ſickneſſe, to continue the ſame) He may ſurely Reap (as of the fruits of former labours) means for his ſubſiſting from thoſe People; in caſe hee bee wholly Deſtitute, and have not wherewith to live. But Debts, Neceſſities, and ſuch like Indigencies, muſt re<g ref="char:EOLhyphen"/>ceive an orderly reparation by propitious fruits ariſing from that Church where Gods Providence hath ſet him down to labour. The ſpirituall warrier muſt expect coſts from them for whom he goes the warfarfare. 1 <hi>Cor.</hi> 9.7.8, 9, 10. He had ſafer caſt himſelfe into any extremity through which the preſſures of want will drive him, then to fall upon the rock of the ſanctuary. He had better ſurely joyn any houſe to houſe (which alſo is wofull, <hi>Iſai</hi> 5.20.) then to ingroſſe Gods Temples. It was certainly a great diſtruſt of Gods ſufficiency that drew both <hi>Ananias</hi> and his wife <hi>Saphyrah</hi> into that Reſerving, which occaſioned their lying, and thence their puniſhing. A prophane <hi>Eſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> may as deeply ſinne, in reaching to himſelfe more then his own, as in ſelling of his own. They that will be rich (ſo they that will free them<g ref="char:EOLhyphen"/>ſelves of poverty too haſtily) fall into temptation and a ſnare, and in<g ref="char:EOLhyphen"/>to many fooliſh noyſome luſts which drown men in Deſtruction and Perdition. 1 <hi>Tim.</hi> 6.9, 10.</p>
+               <p>But the party ſubſtituted is unworthy; who ſhall judge of that? If the Prelate, then none ſhall be worthy but himſelfe, though hap<g ref="char:EOLhyphen"/>pily the moſt unworthy. But if the ſubſtitute be unworthy, why ſhould he have any thing to doe there? But the ſubſtitute is an able godly miniſter; The more right to the entire means. Why is ſuch a one wronged? we ſhould not rob from a rogue, much leſſe from a good man. Why is that good man ſo ill rewarded, diſcouraged, temp<g ref="char:EOLhyphen"/>ted to halfe it with the peoples ſoul? unto whom he through want of means and power muſt needs be in great meaſure ſubjected. Notwith<g ref="char:EOLhyphen"/>ſtanding the livelieſt encouragements, &amp; ſwe<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſt quicknings the beſt and forwardeſt Miniſters too ſoon grow dull, and fagge in their ſpiri<g ref="char:EOLhyphen"/>tuall duties; ſo needleſſe and graceleſſe are thoſe reſervings that break the bruiſed Reed, and quench the flaming Flax, and damp the high aſpiring ſparks of burning Zeale.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:113786:4"/>
+               <head>Inſpection to the Locall Reſpects.</head>
+               <p>THe circumſtantiall diſpoſition of Places in regard of the Propin<g ref="char:EOLhyphen"/>quity or near adjoyning diſtance of Pariſhes is next conſiderable. For where two pariſhes are ſo near together, as the labour of one Mi<g ref="char:EOLhyphen"/>niſter may with much conveniencie extend unto them both; and the rather where the ſweet complyance of a truly willing people addreſ<g ref="char:EOLhyphen"/>ſing themſelves ſo each unto other, that the exerciſes of the miniſtry may be as powerfull and effectuall, as if but one. It may be with theſe as with the two branches, <hi>Ezechiel</hi> 37.16.17.</p>
+               <p>Particular Churches being pariſhes in great Brittaine, were very ſtrangely cut into unequall ſhreds (ſome think) by the mangling ſhears of Popiſh ſhavelings, and no leſſe unevenly torne into peices and ſplinters by our firſt Reformers; ſo that were they permitted to ſhed and congregate themſelves, there could not eaſily be leſſe equality in proportions. For ſome pariſhes are ſo ſmall, and in many reſpects ſo inconſiderable, that as they ſay of Vicaridges in Lincolnſhire, they are ſuch nimble ones, that two or three might be borne upon one mans back, without danges of breaking; and others again are ſo vaſt, and ſo remotely <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, that though but one pariſh, yet the Miniſter there<g ref="char:EOLhyphen"/>to will neceſſarily fall into the ſinnes and deficiencies of a Non-reſi<g ref="char:EOLhyphen"/>dent, or Pluraliſt. For where people live at that diſtance, that the Mi<g ref="char:EOLhyphen"/>niſter (having but one ſoule, one body, and that limited) cannot infi<g ref="char:EOLhyphen"/>nitely extend his labours unto all of them, nor the people with reſpect to the ſpirituall reſt in ſanctifying the Lords day (eſpecially the aged, lame, and ſickly) cannot poſſibly, profitably, reap the benefit of his labours, thoſe people though accounted one pariſh, cannot rightly at one and the ſame time be the ſheep of that one ſhepheard.</p>
+            </div>
+            <div type="part">
+               <head>Inſpection to the Temporall Reſpects.</head>
+               <p>THe accidentall condition of the times is the moſt prevalent Re<g ref="char:EOLhyphen"/>ſpect with the novell Pluraliſts of our times. The conſtitution of times is either meanly or extreamly diſpoſed. For the firſt the indif<g ref="char:EOLhyphen"/>ferencie of times hath little influence as to alter or to take any thing valuable from the nature of that act, which in it ſelf is meerly ſinfull.</p>
+               <p>Extremity of times is either to good, or evill; too true it is that times extreamly flattering, <hi>Haleyon</hi> calmes, and Sun-ſhine gleames operate with wanton ſtirring wits, as with full-fed beaſts, makes them gad up and down in their own, and often out of their own into
+<pb n="6" facs="tcp:113786:5"/>others Paſtures: But to ſpeak ſtrictly, thoſe times are not therein ac<g ref="char:EOLhyphen"/>counted proſperous.</p>
+               <p>Times extreamly evill, tempeſtuous dayes, may indeed force ſilence upon the prudent, <hi>Amos</hi> 5.13. and ſo for a time admit the abſence of a Miniſter from his people; and yet nevertheleſſe receive fruits from thoſe people, in relation to what he hath ſowen formerly, and in regard of what he ſtands cordially ready to perform, he being not ingaged to another people; but keeps at diſtance only for ſafety, hovering ſtill about the forſaken (like the bird about the neſt of us young) and would lives fain come near, but dares not for feare of the vermin, whoſe prey they are become.</p>
+               <p>But to take the advantage of the diſtemperature of the preſent times, with ſome inferiour reſpect to ſecurity, but greater regard to profits (which over-poyzing reſpects will eaſily bee diſcovered by the value of the Ingot) then to mount himſelfe upon the Backs of a people deſerted by their former Miniſter, and to exact from them the fruits of that living, together with all or any of the ſweet of his former place ariſing ſince his forſaking them, he being no otherwiſe authoriſed to this ingroſſure, but by the temporary diſtemper. The evill of thoſe times are ſo farre from ſalving the evill of ſuch Sacrilegious Acts, as that both the Acts and the Times, are made worſe thereby. Yea more, were the act not ſinfull in it ſelfe; yet the deſign of promo<g ref="char:EOLhyphen"/>tion and advancement diametrically croſſe to Gods proceedings in humbling times, would taint with impious impurity; ſuch like was urged with vehemency againſt <hi>Baruch</hi> in his ſecular aſpiring. <hi>Jer.</hi> 45.</p>
+               <p n="1">1. In whipping times we ſhould bee graciouſly carefull to keep pure from all ſins as they expoſe to the laſh; but eſpecially from thoſe ſins, for which the rod was brought forth.</p>
+               <p n="2">2. In reforming times we ſhould take ſpeciall heed that we nei<g ref="char:EOLhyphen"/>ther retain old ſins, nor fall into new ones.</p>
+               <p n="3">3. As our timely readineſſe to ingage and vow reforming, may be admitted in the way of withholding judgements due to our former offendings; ſo the breach or ſlow performings of thoſe vowes may een force thoſe judgements both for our former fallings and latter failings.</p>
+               <p n="4">4. In times when many are running, others going, ſome but creep<g ref="char:EOLhyphen"/>ing to perfection, we ſhould not block the way by ſo huge a ſcandall.</p>
+               <p n="5">5. At that very time to hold in Prelacy and Superintendency, when God is viſibly fighting them out, (to them that ſee any thing clearly) is no leſſe then to fight againſt God, his word, his ſword.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
